@@ -20,6 +20,6 @@
 
 📫 **Contact me by:**
 
-* [Email](mailto:m.erfanpouladzadeh@yahoo.com)
-* [Telegram](https://t.me/@erfanpld)
+<!--* [Email](mailto:m.erfanpouladzadeh@yahoo.com)-->
+<!--* [Telegram](https://t.me/@erfanpld)-->
 <!--* [Twitter](https://twitter.com/_amir_yaghoubi_)-->

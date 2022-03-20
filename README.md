@@ -1,25 +1,36 @@
-<h1 align="center">Hi 👋, I'm Mohammad Erfan Pouladzadeh</h1>
-<h3 align="center">A passionate backend developer with python & nodejs from Iran</h3>
+<p align="center"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am <a href="https://redl.ink/HadiAzarnasab">Mohammad Erfan Pouladzadeh </a> </samp></h1></p>
+<p align="center"><h4 align="center"><samp> A Junior Django and Amateur Nodejs Developer</samp></h4></p>
+<br>
 
-- 💬 Ask me about **Python & Django & Nodejs**
+<div>
+  
+  
+- 🔭  My Website **https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/**
+  
+- 💬  Ask me about **Python & Django & Nodejs**
 
-- 📫 How to reach me **m.erfanpouladzadeh@yahoo.com**
+- 📫  How to reach me **m.erfanpouladzadeh@yahoo.com**
+</div> 
 
-<!-- - 📄 Know about my experiences [I am doing an internship in the company](I am doing an internship in the company) -->
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/mohammad erfan pouladzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad erfan pouladzadeh" height="30" width="40" /></a>
-<a href="https://instagram.com/m.erfanpld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.erfanpld" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merfanpld&show_icons=true&locale=en" alt="merfanpld" /></p>
+<br>
+<a href="https://github.com/MErfanPld">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MErfanPld&theme=nord" />
+</a>
 
-<!--📫 **Contact me by:**-->
+  
+<a href="https://github.com/Hadi7546">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
 
-<!--* [Email](mailto:m.erfanpouladzadeh@yahoo.com)-->
-<!--* [Telegram](https://t.me/@erfanpld)-->
-<!--* [Twitter](https://twitter.com/_amir_yaghoubi_)-->
+ <h4><b><samp>Connect with me:</samp></b></h4>
+
+[![Contact](https://img.shields.io/badge/m.erfanpouladzadeh@yahoo.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](m.erfanpouladzadeh@yahoo.com)
+[![Linkedin](https://img.shields.io/badge/Mohammad_Erfan_Pouladzadeh-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/) 
+[![Stack Overflow](https://img.shields.io/badge/Mohammad_Erfan_Pouladzadeh-orange?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16106955/mohammad-erfan-pouladzadeh)
+[![Site](https://img.shields.io/badge/Mohammad_Erfan_Pouladzadeh-skyblue?style=flat-square&logo=dev.to&logoColor=white)](https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/)
+
+
+

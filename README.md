@@ -22,8 +22,7 @@
 </a>
 
   
-<a href="https://github.com/MErfanPld">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
+
 
  <h4><b><samp>Connect with me:</samp></b></h4>
 

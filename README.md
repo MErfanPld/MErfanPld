@@ -11,7 +11,7 @@
   
 - 🔭  My Website **https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/**
   
-- 💬  Ask me about **Python & Django & Nodejs**
+- 💬  Ask me about **Python & Django & Laravel**
 
 - 📫  How to reach me **m.erfanpouladzadeh@yahoo.com**
 </div> 
@@ -56,7 +56,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.erfanpld)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.erfanpouladzadeh@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/)
-[![image](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://t.me/@erfanpld](https://stackoverflow.com/users/16106955/mohammad-erfan-pouladzadeh))
+[![image](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/16106955/mohammad-erfan-pouladzadeh](https://stackoverflow.com/users/16106955/mohammad-erfan-pouladzadeh))
 [![image](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@erfanpld)
 
 </div>

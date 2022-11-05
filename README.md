@@ -11,7 +11,7 @@
   
 - 🔭  My Website **https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/**
   
-- 💬  Ask me about **Python & Django & Laravel**
+- 💬  Ask me about **Python & Django & Nodejs**
 
 - 📫  How to reach me **m.erfanpouladzadeh@yahoo.com**
 </div> 

@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mohammad Erfan Pouladzadeh <img height="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif")></h1>
+<h1 align="center">Hi, I'm Mohammad Erfan Pouladzadeh <img height="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif")></h1>
 <p align="center"><h4 align="center"><samp> A Junior Django and Amateur Nodejs Developer</samp></h4></p>
 
 <div>
@@ -11,7 +11,7 @@
   
 - 🔭  My Website **https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/**
   
-- 💬  Ask me about **Python & Django & Nodejs**
+- 💬  Ask me about **Python & Django**
 
 - 📫  How to reach me **m.erfanpouladzadeh@yahoo.com**
 </div> 

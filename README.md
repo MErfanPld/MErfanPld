@@ -3,12 +3,10 @@
 <h3 align="center">Python Backend Developer • Django & FastAPI Specialist • 5+ Years Freelancing Experience</h3>
 
 <p align="center">
-  <em>Final-year BS Software Engineering student | Passionate about building secure, scalable APIs & web systems | Seeking Master's in Computer Science / AI in Japan</em>
+  <em>Final-year BS Software Engineering student | Passionate about building secure, scalable APIs & web systems | Seeking Master's in Computer Science</em>
 </p>
 
-<p align="center">
-  🔭 <strong>Currently:</strong> Freelance Backend Development & preparing for MEXT / Japanese universities<br>
-  🌱 <strong>Learning:</strong> Advanced Django patterns, Docker orchestration, System Design<br>
+<p align="center">  🌱 <strong>Learning:</strong> Advanced Django patterns, Docker orchestration, System Design<br>
   💬 <strong>Ask me about:</strong> Django REST Framework, PostgreSQL optimization, Celery/RabbitMQ, Web Security<br>
   📫 <strong>Reach me:</strong> <a href="mailto:m.erfanpouladzadeh@yahoo.com">m.erfanpouladzadeh@yahoo.com</a> • <a href="https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/">LinkedIn</a><br>
   🌐 <strong>Personal Site:</strong> <a href="https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/">Portfolio</a>
@@ -34,18 +32,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MErfanPld&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MErfanPld&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MErfanPld&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
----
 
 ### 🔝 Pinned Projects (Check them out!)
 

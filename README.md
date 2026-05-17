@@ -1,56 +1,185 @@
-<h1 align="center">Hi there! 👋 I'm Mohammad Erfan Pouladzadeh</h1>
+<h1 align="center">Hi 👋 I'm Mohammad Erfan Pouladzadeh</h1>
 
-<h3 align="center">Python Backend Developer • Django & FastAPI Specialist • 5+ Years Freelancing Experience</h3>
+<h3 align="center">
+Backend Developer • Django & FastAPI Engineer • API Architect
+</h3>
 
 <p align="center">
-  <em>Final-year BS Software Engineering student | Passionate about building secure, scalable APIs & web systems | Seeking Master's in Computer Science</em>
-</p>
-
-<p align="center">  🌱 <strong>Learning:</strong> Advanced Django patterns, Docker orchestration, System Design<br>
-  💬 <strong>Ask me about:</strong> Django REST Framework, PostgreSQL optimization, Celery/RabbitMQ, Web Security<br>
-  📫 <strong>Reach me:</strong> <a href="mailto:m.erfanpouladzadeh@yahoo.com">m.erfanpouladzadeh@yahoo.com</a> • <a href="https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/">LinkedIn</a><br>
-  🌐 <strong>Personal Site:</strong> <a href="https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/">Portfolio</a>
+  <em>
+Building scalable backend systems, REST APIs, real-time applications, and modern web platforms.
+  </em>
 </p>
 
 ---
 
-### 🛠️ Tech Stack (Core Focus)
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-*Also experienced with:* Celery, RabbitMQ, Nginx, Selenium, Postman, basic Front-end (HTML/CSS/JS/Bootstrap)
-
----
-
-
-### 🔝 Pinned Projects (Check them out!)
-
-Here are some of my key public projects:
-
-- **[SearchEngine-Django](https://github.com/MErfanPld/SearchEngine-Django)** → Real-time search engine using Django + Google Custom Search API  
-- **[Music-API](https://github.com/MErfanPld/Music-API)** → RESTful Music API built with Django REST Framework  
-- **[Opencv-Convert-Django](https://github.com/MErfanPld/Opencv-Convert-Django)** → Image processing web app integrated with OpenCV & Django  
-- More projects & freelance work → see my [Portfolio Site](https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/)
+- 🎓 Final-year **Software Engineering** student
+- 💼 5+ years of freelancing experience
+- 🐍 Backend Developer focused on **Python Ecosystem**
+- ⚡ Passionate about:
+  - Scalable API Design
+  - System Architecture
+  - Real-time Applications
+  - Web Security
+  - High-performance Backend Systems
+- 🌱 Currently learning:
+  - Advanced System Design
+  - Docker Orchestration
+  - Cloud Deployment
 
 ---
 
-### 🤝 Let's Connect!
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:m.erfanpouladzadeh@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/erfanpld"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://stackoverflow.com/users/16106955/mohammad-erfan-pouladzadeh"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+### 👨‍💻 Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express" />
 </p>
 
-Thanks for stopping by! 🚀 Feel free to explore my repos or drop a message.
+### 🗄 Database & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,postman" />
+</p>
+
+### 🌐 Front-end Basics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🇮🇷 🇯🇵 IranJpan (Django)
+
+Iran Japan Chamber of Commerce Website
+
+🔗 Repo:  
+[View Project](https://github.com/MErfanPld/E-commerce-API-Nodejs)
+
+---
+
+### 💬 Real-time Chat Application
+
+Real-time chat system using:
+
+- Node.js
+- Socket.IO
+- WebSockets
+- Event-driven Architecture
+
+🔗 Repo:  
+[View Project](https://github.com/MErfanPld/Chat-App-Nodejs-Socket.io)
+
+---
+
+### 🎓 Svs Learn Platform
+
+Online learning platform for programming & IT courses featuring:
+
+- Course Management
+- Student Dashboard
+- Authentication
+- Educational Platform Architecture
+
+🔗 Repo:  
+[View Project](https://github.com/MErfanPld/Svs-Learn)
+
+---
+
+### ✂️ Narjin Reservation Platform
+
+Online reservation platform for men's & women's beauty salons.
+
+Features include:
+
+- Appointment Booking
+- Staff Scheduling
+- Reservation Management
+- Admin Dashboard
+
+🔗 Repo:  
+[View Project](https://github.com/MErfanPld/Narjin.ir)
+
+---
+
+### 🖼 OpenCV + Django Image Processing
+
+Image processing web application integrated with OpenCV and Django.
+
+🔗 Repo:  
+[View Project](https://github.com/MErfanPld/Opencv-Convert-Django)
+
+---
+
+## 📈 GitHub Goals
+
+- Build production-grade backend systems
+- Contribute to open source
+- Improve distributed systems knowledge
+- Develop scalable SaaS products
+- Pursue Master's in Computer Science
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+
+📧 Email:  
+<a href="mailto:m.erfanpouladzadeh@yahoo.com">
+m.erfanpouladzadeh@yahoo.com
+</a>
+
+🌐 Portfolio:  
+<a href="https://merfanpld.github.io/Mohammad-Erfan-Pouladzadeh/">
+Portfolio Website
+</a>
+
+💼 LinkedIn:  
+<a href="https://www.linkedin.com/in/mohammad-erfan-pouladzadeh-b10937220/">
+Mohammad Erfan Pouladzadeh
+</a>
+
+📨 Telegram:  
+<a href="https://t.me/erfanpld">
+@erfanpld
+</a>
+
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MErfanPld&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MErfanPld&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Interests
+
+- Backend Engineering
+- Distributed Systems
+- Real-time Applications
+- Cybersecurity
+- SaaS Architecture
+
+---
+
+<h3 align="center">
+🚀 Always building, always learning.
+</h3>
